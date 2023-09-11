@@ -61,3 +61,9 @@ The application consists of two main screens:
 ### Real-Time Updates:
 
 Any changes made in the editing page will be immediately reflected on the CV view page without requiring manual refresh.
+
+## Demo
+
+1. You can see a live demo of the app on Appetize.io/app/j4wwe2jaro3mjmiamlmqhp3bvy.
+
+2. Set the android version to android 12 and above on Appetize.io
